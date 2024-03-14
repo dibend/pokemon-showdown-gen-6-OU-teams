@@ -1,0 +1,123 @@
+=== [gen6ou] tri weth ===
+
+Tyranitar  
+Ability: Sand Stream  
+
+Excadrill  
+Ability: Sand Rush  
+
+Charizard  
+Ability: Blaze  
+
+Politoed  
+Ability: Water Absorb  
+
+Venusaur  
+Ability: Overgrow  
+
+Seismitoad  
+Ability: Swift Swim  
+
+
+=== [gen6ou] ditto ===
+
+Thundurus  
+Ability: Prankster  
+
+Ditto  
+Ability: Limber  
+
+Alakazam  
+Ability: Synchronize  
+
+Talonflame  
+Ability: Flame Body  
+
+Excadrill  
+Ability: Sand Rush  
+
+Azumarill  
+Ability: Thick Fat  
+
+
+=== [gen6ou] herra ===
+
+Heracross @ Heracronite  
+Ability: Guts  
+EVs: 252 Atk / 4 Def / 252 Spe  
+Adamant Nature  
+- Close Combat  
+- Pin Missile  
+- Rock Blast  
+- Bullet Seed  
+
+Thundurus @ Expert Belt  
+Ability: Prankster  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Thunder Wave  
+- Volt Switch  
+- Hidden Power [Ice]  
+- Incinerate  
+
+Jirachi @ Leftovers  
+Ability: Serene Grace  
+EVs: 240 HP / 12 Atk / 224 SpD / 32 Spe  
+Careful Nature  
+- Stealth Rock  
+- Body Slam  
+- Iron Head  
+- Healing Wish  
+
+Talonflame @ Sky Plate  
+Ability: Gale Wings  
+EVs: 248 HP / 252 Atk / 8 Spe  
+Adamant Nature  
+- Swords Dance  
+- Roost  
+- Flare Blitz  
+- Brave Bird  
+
+Donphan @ Leftovers  
+Ability: Sturdy  
+EVs: 252 HP / 4 Atk / 252 Def  
+Impish Nature  
+- Rapid Spin  
+- Earthquake  
+- Knock Off  
+- Ice Shard  
+
+Azumarill @ Assault Vest  
+Ability: Huge Power  
+EVs: 248 HP / 252 Atk / 8 SpD  
+Adamant Nature  
+- Knock Off  
+- Play Rough  
+- Waterfall  
+- Aqua Jet  
+
+
+=== [gen6ou] golem ===
+
+Kyurem-Black  
+Ability: Teravolt  
+
+Gengar  
+Ability: Cursed Body  
+
+Golem  
+Ability: Rock Head  
+
+Starmie  
+Ability: Illuminate  
+
+Entei  
+Ability: Pressure  
+
+Scizor  
+Ability: Swarm  
+
+
+
+
+
